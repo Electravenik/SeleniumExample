@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class DropdownTest {
+public class DropdownTest{
 
     private WebDriver driver;
     private static final String BASE_URL = "http://the-internet.herokuapp.com";
